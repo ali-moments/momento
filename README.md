@@ -1,18 +1,20 @@
-### HAM made of us <br>
+### Momento <br>
+- [Ali](https://instagram.com/ali.momento)
+
+### My Friends
 - [HamidReza](https://instagram.com/sedhamid.reza)
-- [Ali](https://instagram.com/ali_aaa_3351)
-- [MohammadMahdi](https://instagram.com/)
+- [MohammadMahdi](https://www.instagram.com/mohammadmahdi_8g/)
 
 ### We are three Geeks that love technology and knowledge
 we write script as a hobby, enjoy photoshoping pictures, research about networks and computers and operation systems!
 
-## contact us
-- [Weblog](https://realham.blogsky.com/)
-- [Blog](http://ham.blogfa.com/)
-- [Telegram](https://instagram/realham_insta)
-- [Instagram](https://t.me/realham_tel)
-- [Discord](https://discord.gg/uY3VJNu)
-- [YouTube](https://www.youtube.com/channel/UCiWO3YdDV_rj4FiYlkNDkqA)
+## contact with me
+- [Blogsky](https://realham.blogsky.com/)
+- [Blogfa](http://ham.blogfa.com/)
+- [Telegram](https://t.me/happy_c0d3r)
+<!-- - [Instagram](https://t.me/realham_tel)
+<!-- - [Discord](https://discord.gg/uY3VJNu)
+<!-- - [YouTube](https://www.youtube.com/channel/UCiWO3YdDV_rj4FiYlkNDkqA) -->
 
 ## our projects
 
